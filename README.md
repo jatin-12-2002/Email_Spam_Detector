@@ -30,7 +30,7 @@ Installation of this project is pretty easy. Please do follow the following step
 
 ### Step-5: Run the application:
 ```bash
-    python run main.py
+    python main.py
 ```
 
 ### Step-6: Prediction application:
